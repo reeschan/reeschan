@@ -16,4 +16,4 @@ Engineer working across the stack, from frontend to cloud infrastructure.
 
 ## 技術 / Tech
 
-TypeScript · React · Next.js · Tailwind CSS · three.js · Node.js · AWS · Vercel · Claude Code
+TypeScript · React · Next.js · Tailwind CSS · three.js · Node.js · OpenSearch · MCP · AWS · Vercel · Claude Code
