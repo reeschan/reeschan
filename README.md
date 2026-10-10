@@ -9,6 +9,7 @@ Engineer working across the stack, from frontend to cloud infrastructure.
 
 | リポジトリ / Repo | 内容 / What it is |
 | --- | --- |
+| [ai-session-knowledge-viewer](https://github.com/reeschan/ai-session-knowledge-viewer) | Claude Code / Codex の会話ログを LLM で要約・分類し、学びをナレッジとして閲覧する Next.js アプリ / Next.js app that summarizes and categorizes Claude Code / Codex session logs with an LLM and turns them into a browsable knowledge base |
 | [claude-skill-style-guide](https://github.com/reeschan/claude-skill-style-guide) | 自由記述から UI テーマ (Tailwind v4 `theme.css`・トークン・スタイルガイド) を生成する Claude Code スキル / Claude Code skill that generates UI themes from a free-form description |
 | [my-portfolio-second](https://github.com/reeschan/my-portfolio-second) | タブ風 UI・three.js の 3D 背景・職務経歴に答える AI チャットを備えたポートフォリオ / Portfolio with a tab-style UI, three.js backgrounds and a résumé chat |
 
